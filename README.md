@@ -157,7 +157,7 @@ You also need **Google Chrome** installed because the project uses Chrome WebDri
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone <(https://github.com/nadasami1/Wuzzuf-Tech-Jobs-Scraping)>
 ```
 
 ### Step 2: Open the Project
