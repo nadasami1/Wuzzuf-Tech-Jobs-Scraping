@@ -235,7 +235,7 @@ The scraping process should also be used responsibly and in accordance with the 
 
 **Nada Sami**
 
-AI Student | Data Analysis & Machine Learning Enthusiast
+AI Student | Data Analysis 
 
 ### Skills Used in This Project
 
